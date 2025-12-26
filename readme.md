@@ -420,7 +420,7 @@ def plan_learning_path(user_profile, target):
 ## 五、系统展示
 ### 5.1 运行方式
 
-可以使用python agent.py运行，也可以使用release中提供的exe文件运行
+可以使用python agent.py运行，也可以使用提供的exe文件运行
 
 ### 5.2 运行截图
 
