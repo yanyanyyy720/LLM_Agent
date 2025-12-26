@@ -417,3 +417,16 @@ def plan_learning_path(user_profile, target):
     
     return optimize_path(learning_path)
 ```
+## 五、系统展示
+### 5.1 运行方式
+
+可以使用python agent.py运行，也可以使用release中提供的exe文件运行
+
+### 5.2 运行截图
+
+<img width="676" height="768" alt="image" src="https://github.com/user-attachments/assets/770f23f3-47b7-49a7-81fc-4143c732fd65" />
+<img width="858" height="776" alt="image" src="https://github.com/user-attachments/assets/0cef423f-ff6c-4e34-a263-69027c376f8a" />
+<img width="1355" height="772" alt="image" src="https://github.com/user-attachments/assets/66fb6dc0-4530-4161-a655-f518d77cf99e" />
+<img width="907" height="718" alt="image" src="https://github.com/user-attachments/assets/b724e3c3-26b5-4b90-b2dd-d5ecef710d91" />
+
+
